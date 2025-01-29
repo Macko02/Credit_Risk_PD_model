@@ -1,5 +1,3 @@
-# Credit_Risk_PD_model
-
 # Credit Risk Model
 
 ## 📌 Overview
