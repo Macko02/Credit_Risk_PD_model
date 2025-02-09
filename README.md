@@ -12,7 +12,7 @@ This project focuses on modeling the probability of **credit default** using dat
 
 ## 🔍 Methodology
 
-- **Algorithm**: Logistic Regression (due to Basel interpretability requirements)
+- **Algorithm**: Logistic Regression (due to Basel interpretability requirements), SVM, XGBoost, Random Forest
 - **Features**: Binary-encoded independent variables
 - **Data balancing**: Adjusted class weights instead of oversampling/undersampling
 
